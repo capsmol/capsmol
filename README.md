@@ -15,17 +15,17 @@
 📫 How to reach me: @SINDY203
 
 ### big O cheat sheet:
-🚀    O(log n)
+🚀 
 
-👇    O(n)
+👇
 
-🐌    O(n * log n)
+🐌
 
-      O(n^2)
-
-      O(n!)
-
-
+|  O(log n)  |
+|  O(n)      |
+|O(n * log n)|
+| O(n^2)     |
+| O(n!)      |
 
 
 
