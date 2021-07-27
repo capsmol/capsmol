@@ -16,14 +16,22 @@
 
 ### big O cheat sheet:
 🚀
+
 👇
+
 🐌
 
 O(log n)
+
 O(n)
+
 O(n * log n)
+
 O(n^2)
+
 O(n!)
+
+
 
 
 
