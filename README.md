@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Languages and tools 🛠
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,4 +13,18 @@
 
 
 📫 How to reach me: @SINDY203
+
+### big O cheat sheet:
+🚀
+👇
+🐌
+
+O(log n)
+O(n)
+O(n * log n)
+O(n^2)
+O(n!)
+
+
+
 
