@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexey 👋</h1>
 
 <p align="center">
-  Indie developer. I build iOS apps and ship them to the App Store.
+  I building apps
 </p>
 
 <p align="center">
